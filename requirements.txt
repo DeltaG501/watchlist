@@ -1,1 +1,4 @@
 flask
+Bootstrap-Flask
+Flask-SQLAlchemy
+click
