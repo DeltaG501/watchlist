@@ -1,6 +1,0 @@
-flask
-Bootstrap-Flask
-Flask-SQLAlchemy
-click
-werkzeug
-flask-login
